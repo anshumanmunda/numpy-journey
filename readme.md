@@ -48,7 +48,7 @@ It focuses on the "NumPy-ic" way of solving problems to avoid slow Python loops.
 
 ## 🧠 NumPy Problems (Coming Soon)
 *This section will feature curated problem sets to test logic and application skills.*
-* **Basics Challenge:** 20+ Questions on array creation and slicing.
+* **Basics Challenge:**  Questions on array creation and slicing.
 * **Data Transformation:** Real-world scenarios involving reshaping and filtering datasets.
 
 ---
